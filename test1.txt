@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F456-9166
+
+ Directory of C:\Users\VRavikumar\Desktop\MyProject
+
+07/11/2020  01:08 PM    <DIR>          .
+07/11/2020  01:08 PM    <DIR>          ..
+07/11/2020  01:08 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  716,946,804,736 bytes free
